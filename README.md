@@ -1,2 +1,2 @@
 # incrementDecrement
-Pequeño ejercicio sobre un incremente y decremento usando un closure sencillo
+Pequeño ejercicio sobre un incremento y decremento usando un closure sencillo
